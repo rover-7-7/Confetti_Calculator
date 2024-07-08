@@ -1,7 +1,5 @@
 ## Scientifc Calculator
 
-![image](./Screenshot 2024-07-08 224305.png)
-
 ## Features
 
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
