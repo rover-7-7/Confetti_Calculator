@@ -10,7 +10,7 @@ const Container = styled.div`
   flex-direction: column;
   align-items: center;
   font-family: "Roboto", sans-serif;
-  width: 200vh;
+  width: 140vh;
   margin: auto;
   border: 1px solid #ccc;
   border-radius: 10px;
