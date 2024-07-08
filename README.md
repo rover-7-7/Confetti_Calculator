@@ -1,6 +1,6 @@
 ## Scientifc Calculator
 
-![image](public/Screenshot 2024-07-08 224305.png)
+![image](./Screenshot 2024-07-08 224305.png)
 
 ## Features
 
