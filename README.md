@@ -1,6 +1,6 @@
 ## Scientifc Calculator
 
-![image](https://github.com/divyanshu2209/scientific-calculator/assets/160017461/c1594e3f-1bdf-4c8e-affb-23c318249d3d)
+![image](public/Screenshot 2024-07-08 224305.png)
 
 ## Features
 
